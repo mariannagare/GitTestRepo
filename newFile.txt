@@ -1,0 +1,2 @@
+Introducing new changes in newFile.txt
+Another changes in the file
